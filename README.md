@@ -11,5 +11,5 @@ On create Users page you can add users to the database.
 It uses mongodb atlas to store database of users and exercises.
 
 This full stack project was build for practising MERN stack by following tutorial of MERN stack on freeCodeCamp channel on Youtube. 
-Link to the tutorial video of MERN full stack is:
+Link to the tutorial video of MERN full stack:
 https://www.youtube.com/watch?v=7CqJlxBYj-M 
